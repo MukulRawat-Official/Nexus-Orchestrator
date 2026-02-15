@@ -1,0 +1,4 @@
+.env
+node_modules
+*.log
+.pnpm-workspace-state-v1.json

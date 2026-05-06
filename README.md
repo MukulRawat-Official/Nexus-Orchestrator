@@ -2,6 +2,9 @@
 
 Nexus Orchestrator is a high-performance, distributed task execution engine and hardware monitoring suite. It utilizes a Node.js-based worker swarm coordinated via Redis to process massive data ingestion pipelines with real-time telemetry and stateful ingestion controls.
 
+<img width="1910" height="898" alt="image" src="https://github.com/user-attachments/assets/6eeb8615-fd9e-4c1b-8f4c-240543caa425" />
+
+
 ---
 
 ## Features
